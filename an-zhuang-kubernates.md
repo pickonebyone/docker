@@ -20,3 +20,13 @@
 
 切换到K8S环境![](/assets/switch_env.png)
 
+添加主机：点击添加主机，选择当前站点地址，点击保存。
+
+![](/assets/add_host.png)
+
+Copy Step5中的命令，在Docker宿主机执行。
+
+![](/assets/add_host_cmd.png)
+
+这个过程优点漫长，需要下载不少的Docker Images。 忍耐。![](/assets/kubernetes_setting.png)
+
