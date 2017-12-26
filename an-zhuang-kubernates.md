@@ -24,15 +24,11 @@
 
 ![](/assets/add_host.png)
 
-
-
 Copy Step5中的命令，在Docker宿主机执行。
 
 ![](/assets/add_host_cmd.png)
 
-这个过程优点漫长，需要下载不少的Docker Images。 忍耐。![](/assets/kubernetes_setting.png)
+这个过程优点漫长，需要下载不少的Docker Images。 忍耐 。                               新的新的好的好没有问题了，这样好难受啊。单词![](/assets/kubernetes_setting.png) .            
 
-
-
-
+新的
 
