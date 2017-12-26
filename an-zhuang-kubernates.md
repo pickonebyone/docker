@@ -18,3 +18,5 @@
 
 设置名称，选择钢材设置好的模版，点击创建。![](/assets/add_environment_setting.png)
 
+切换到K8S环境![](/assets/switch_env.png)
+
