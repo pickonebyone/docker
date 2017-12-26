@@ -4,3 +4,7 @@
 
 过几分钟后访问：[http://192.168.200.171:8080/](http://192.168.200.171:8080/![]%28/assets/dashboard_rancher.png)![](/assets/dashboard_rancher.png)
 
+设置K8S环境模版：Default-环境管理-添加环境模版
+
+
+
