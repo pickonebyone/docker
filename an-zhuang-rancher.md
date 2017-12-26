@@ -8,13 +8,19 @@
 
 添加模版-编辑设置![](/assets/add_template.png)设置如下内容：![](/assets/setting_k8s_template_config.png)
 
-    Private Registry for Add-Ons and Pod Infra Container Image : `registry.cn-shenzhen.aliyuncs.com`
 
-    Image namespace for Add-Ons and Pod Infra Container Image : `rancher_cn`
 
-    Image namespace for kubernetes-helm Image : `rancher_cn`
+```
+    Private Registry for Add-Ons and Pod Infra Container Image : registry.cn-shenzhen.aliyuncs.com
 
-    Pod Infra Container Image : `rancher_cn/pause-amd64:3.0`
+    Image namespace for Add-Ons and Pod Infra Container Image : rancher_cn
+
+    Image namespace for kubernetes-helm Image : rancher_cn
+
+    Pod Infra Container Image : rancher_cn/pause-amd64:3.0
+```
+
+
 
 
 
