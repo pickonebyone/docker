@@ -25,7 +25,7 @@ CPU：4核
 |  | `1.12.0`-`1.12.2` | No |  |  |  |
 | `1.12.3`\(and higher\) | **Yes** | **Yes** | No | \`curl [https://releases.rancher.com/install-docker/1.12.sh](https://releases.rancher.com/install-docker/1.12.sh) | sh\` |
 | `1.13.x` | **Yes** | **Yes**\(Kubernetes version 1.8\) | No | \`curl [https://releases.rancher.com/install-docker/1.13.sh](https://releases.rancher.com/install-docker/1.13.sh) | sh\` |
-| _`17.03.x-ce`_ | _**Yes**_ | _**Yes**\(Kubernetes version 1.8\)_ | _No_ | _\`curl _[_https://releases.rancher.com/install-docker/17.03.sh_](https://releases.rancher.com/install-docker/17.03.sh) | _sh\`_ |
+| `17.03.x-ce` | _**Yes**_ | _**Yes**\(Kubernetes version 1.8\)_ | _No_ | _\`curl _[_https://releases.rancher.com/install-docker/17.03.sh_](https://releases.rancher.com/install-docker/17.03.sh) | _sh\`_ |
 |  | `17.03.x-ee` | **Yes** | **Yes**\(Kubernetes version 1.8\) | No | n/a |
 | `17.04.x-ce` | No | No | No | \`curl [https://releases.rancher.com/install-docker/17.04.sh](https://releases.rancher.com/install-docker/17.04.sh) | sh\` |
 | `17.05.x-ce` | No | No | No | \`curl [https://releases.rancher.com/install-docker/17.05.sh](https://releases.rancher.com/install-docker/17.05.sh) | sh\` |
